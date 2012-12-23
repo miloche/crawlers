@@ -1,0 +1,28 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA50-2AF9
+
+ Directory of c:\Users\rebirth\git\crawlers\crawler\lib
+
+24.12.2012  00:26    <DIR>          .
+24.12.2012  00:26    <DIR>          ..
+24.12.2012  00:26                 0 aha.txt
+25.12.2011  14:37            95'511 apache-mime4j-core-0.7.jar
+25.12.2011  14:37           300'168 apache-mime4j-dom-0.7.jar
+25.12.2011  14:37            43'033 asm-3.1.jar
+25.12.2011  14:37            92'027 boilerpipe-1.1.0.jar
+25.12.2011  14:28            73'098 commons-codec-1.5.jar
+25.12.2011  14:37           224'548 commons-compress-1.3.jar
+30.10.2011  17:36            60'686 commons-logging-1.1.1.jar
+17.02.2012  21:51            97'238 crawler4j-3.3.jar
+25.12.2011  14:37            28'804 geronimo-stax-api_1.0_spec-1.0.1.jar
+25.12.2011  15:08           352'254 httpclient-4.1.2.jar
+25.12.2011  15:09           181'410 httpcore-4.1.4.jar
+25.12.2011  15:13         2'132'019 je-4.0.92.jar
+25.12.2011  14:28           367'444 log4j-1.2.14.jar
+12.01.2012  23:19               259 log4j.properties
+25.12.2011  14:37            90'929 metadata-extractor-2.4.0-beta-1.jar
+25.12.2011  14:37            90'722 tagsoup-1.2.1.jar
+25.12.2011  14:37           426'653 tika-core-1.0.jar
+25.12.2011  14:59           423'122 tika-parsers-1.0.jar
+              19 File(s)      5'079'925 bytes
+               2 Dir(s)  553'994'063'872 bytes free
